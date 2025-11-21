@@ -42,7 +42,7 @@ else{
     console.log("excel·lent")
 }*/
 
-//Exercici 4:
+/*Exercici 4:
 
 let num = 21
 let multi = 0
@@ -60,4 +60,4 @@ switch(multi) {
         break
     default:
         console.log("No es múltiple de 3 ni de 7")
-}
+}*/
