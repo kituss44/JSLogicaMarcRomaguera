@@ -96,3 +96,12 @@ console.log(llista)*/
 
 // Exercici 8:
 
+let x = 30;
+for (let i = 0; i <= x; i++) {
+    if (i % 2 == 0) {
+        console.log(i + " es parell")
+    }
+    else {
+        console.log(i + " es senar")
+    }
+}
