@@ -61,3 +61,15 @@ switch(multi) {
     default:
         console.log("No es múltiple de 3 ni de 7")
 }*/
+
+/* Exercici 5:
+
+let x = 15
+let suma = 0
+let n = 0
+while (suma + (n + 1) <= x) {
+    n++
+    suma += n
+}
+console.log("n = ", n)*/
+
