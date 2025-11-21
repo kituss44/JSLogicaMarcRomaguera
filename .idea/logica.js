@@ -94,9 +94,9 @@ let llista = [n1, n2, n3]
 llista.sort((a,b) => b - a)
 console.log(llista)*/
 
-// Exercici 8:
+/* Exercici 8:
 
-let x = 30;
+let x = 30
 for (let i = 0; i <= x; i++) {
     if (i % 2 == 0) {
         console.log(i + " es parell")
@@ -104,4 +104,11 @@ for (let i = 0; i <= x; i++) {
     else {
         console.log(i + " es senar")
     }
+}*/
+
+// Exercici 9:
+
+let files = 5
+for (let i = 1; i <= files; i++) {
+    console.log("* ".repeat(i));
 }
