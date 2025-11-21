@@ -84,3 +84,15 @@ for(let i  = 0; i<x.length; i++){
     }
 }
 console.log(suma)*/
+
+/* Exercici 7:
+
+let n1 = 783
+let n2 = 479
+let n3 = 639
+let llista = [n1, n2, n3]
+llista.sort((a,b) => b - a)
+console.log(llista)*/
+
+// Exercici 8:
+
