@@ -106,9 +106,36 @@ for (let i = 0; i <= x; i++) {
     }
 }*/
 
-// Exercici 9:
+/* Exercici 9:
 
 let files = 5
 for (let i = 1; i <= files; i++) {
     console.log("* ".repeat(i));
-}
+}*/
+
+/* Exercici 10:
+
+let num = 0
+let suma = 0
+do {
+    if (num % 3 === 0 || num % 5 === 0) suma += num
+    num++
+} while (num <= 1000)
+console.log("Tot sumat son: ", suma)*/
+
+/* Exercici 11:
+
+let files = 5
+for (let i = 1; i <= files; i++) {
+    if (i % 2 === 0) {
+        continue
+    }
+    console.log("* ".repeat(i))
+}*/
+
+// Exercici 12:
+
+let x = 123456
+let s = x.toString()
+s = s.slice(1, -1)
+console.log(s)
