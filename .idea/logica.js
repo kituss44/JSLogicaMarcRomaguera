@@ -73,3 +73,14 @@ while (suma + (n + 1) <= x) {
 }
 console.log("n = ", n)*/
 
+/* Exercici 6:
+
+let x = "g1fgf8f2gf9o9f"
+let suma = 0
+for(let i  = 0; i<x.length; i++){
+    let chr = x[i]
+    if (chr >= "0" && chr <= "9") {
+        suma += Number(chr);
+    }
+}
+console.log(suma)*/
